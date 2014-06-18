@@ -1,0 +1,5 @@
+D:\Repository\ADARegressionTool\ADARegressionTest\DBExtractor\bin\Debug\DBExtractor.dll
+D:\Repository\ADARegressionTool\ADARegressionTest\DBExtractor\bin\Debug\DBExtractor.pdb
+D:\Repository\ADARegressionTool\ADARegressionTest\DBExtractor\obj\Debug\DBExtractor.dll
+D:\Repository\ADARegressionTool\ADARegressionTest\DBExtractor\obj\Debug\DBExtractor.pdb
+D:\Repository\ADARegressionTool\ADARegressionTest\DBExtractor\obj\Debug\DBExtractor.csprojResolveAssemblyReference.cache

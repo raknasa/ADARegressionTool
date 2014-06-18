@@ -1,0 +1,15 @@
+D:\Repository\ADARegressionTool\ADARegressionTest\ADARegressionTest\bin\AutoTest.Net\_tmpIntermediateAT\ADARegressionTest.csprojResolveAssemblyReference.cache
+D:\Repository\ADARegressionTool\ADARegressionTest\ADARegressionTest\bin\AutoTest.Net\_tmpIntermediateAT\ADARegressionTest.exe
+D:\Repository\ADARegressionTool\ADARegressionTest\ADARegressionTest\bin\AutoTest.Net\_tmpIntermediateAT\ADARegressionTest.pdb
+D:\Repository\ADARegressionTool\ADARegressionTest\ADARegressionTest\bin\AutoTest.Net\ADARegressionTest.exe
+D:\Repository\ADARegressionTool\ADARegressionTest\ADARegressionTest\bin\AutoTest.Net\ADARegressionTest.pdb
+D:\Repository\ADARegressionTool\ADARegressionTest\ADARegressionTest\bin\AutoTest.Net\CmdLine.dll
+D:\Repository\ADARegressionTool\ADARegressionTest\ADARegressionTest\bin\AutoTest.Net\log4net.dll
+D:\Repository\ADARegressionTool\ADARegressionTest\ADARegressionTest\bin\AutoTest.Net\log4net.xml
+D:\Repository\ADARegressionTool\ADARegressionTest\ADARegressionTest\bin\AutoTest.Net\ADARegressionTest.exe.config
+D:\Repository\ADARegressionTool\ADARegressionTest\ADARegressionTest\bin\AutoTest.Net\x64\SQLite.Interop.dll
+D:\Repository\ADARegressionTool\ADARegressionTest\ADARegressionTest\bin\AutoTest.Net\x86\SQLite.Interop.dll
+D:\Repository\ADARegressionTool\ADARegressionTest\ADARegressionTest\bin\AutoTest.Net\DBComparer.dll
+D:\Repository\ADARegressionTool\ADARegressionTest\ADARegressionTest\bin\AutoTest.Net\System.Data.SQLite.dll
+D:\Repository\ADARegressionTool\ADARegressionTest\ADARegressionTest\bin\AutoTest.Net\DBComparer.pdb
+D:\Repository\ADARegressionTool\ADARegressionTest\ADARegressionTest\bin\AutoTest.Net\System.Data.SQLite.xml

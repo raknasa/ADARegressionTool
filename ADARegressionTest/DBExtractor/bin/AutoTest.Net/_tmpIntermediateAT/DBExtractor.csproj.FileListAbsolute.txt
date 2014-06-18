@@ -1,0 +1,4 @@
+D:\Repository\ADARegressionTool\ADARegressionTest\DBExtractor\bin\AutoTest.Net\_tmpIntermediateAT\DBExtractor.dll
+D:\Repository\ADARegressionTool\ADARegressionTest\DBExtractor\bin\AutoTest.Net\_tmpIntermediateAT\DBExtractor.pdb
+D:\Repository\ADARegressionTool\ADARegressionTest\DBExtractor\bin\AutoTest.Net\DBExtractor.dll
+D:\Repository\ADARegressionTool\ADARegressionTest\DBExtractor\bin\AutoTest.Net\DBExtractor.pdb

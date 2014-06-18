@@ -1,0 +1,12 @@
+D:\Repository\ADARegressionTool\ADARegressionTest\DBComparer\bin\AutoTest.Net\_tmpIntermediateAT\DBComparer.dll
+D:\Repository\ADARegressionTool\ADARegressionTest\DBComparer\bin\AutoTest.Net\_tmpIntermediateAT\DBComparer.pdb
+D:\Repository\ADARegressionTool\ADARegressionTest\DBComparer\bin\AutoTest.Net\DBComparer.dll
+D:\Repository\ADARegressionTool\ADARegressionTest\DBComparer\bin\AutoTest.Net\DBComparer.pdb
+D:\Repository\ADARegressionTool\ADARegressionTest\DBComparer\bin\AutoTest.Net\_tmpIntermediateAT\DBComparer.csprojResolveAssemblyReference.cache
+D:\Repository\ADARegressionTool\ADARegressionTest\DBComparer\bin\AutoTest.Net\DBComparer.dll.config
+D:\Repository\ADARegressionTool\ADARegressionTest\DBComparer\bin\AutoTest.Net\log4net.xml
+D:\Repository\ADARegressionTool\ADARegressionTest\DBComparer\bin\AutoTest.Net\x64\SQLite.Interop.dll
+D:\Repository\ADARegressionTool\ADARegressionTest\DBComparer\bin\AutoTest.Net\x86\SQLite.Interop.dll
+D:\Repository\ADARegressionTool\ADARegressionTest\DBComparer\bin\AutoTest.Net\System.Data.SQLite.dll
+D:\Repository\ADARegressionTool\ADARegressionTest\DBComparer\bin\AutoTest.Net\System.Data.SQLite.xml
+D:\Repository\ADARegressionTool\ADARegressionTest\DBComparer\bin\AutoTest.Net\log4net.dll

@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADARegressionTest", "ADARegressionTest\ADARegressionTest.csproj", "{6AAA9BBB-2C93-42B3-B0DA-A918F902CEDF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{8F8D0CDD-C20B-49D7-A94D-493101E26FEA}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\NuGet.Config = .nuget\NuGet.Config
+		.nuget\NuGet.exe = .nuget\NuGet.exe
+		.nuget\NuGet.targets = .nuget\NuGet.targets
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBComparer", "DBComparer\DBComparer.csproj", "{918AA31F-B341-483D-9237-FC7914148F58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AAA9BBB-2C93-42B3-B0DA-A918F902CEDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AAA9BBB-2C93-42B3-B0DA-A918F902CEDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AAA9BBB-2C93-42B3-B0DA-A918F902CEDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AAA9BBB-2C93-42B3-B0DA-A918F902CEDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{918AA31F-B341-483D-9237-FC7914148F58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{918AA31F-B341-483D-9237-FC7914148F58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{918AA31F-B341-483D-9237-FC7914148F58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{918AA31F-B341-483D-9237-FC7914148F58}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

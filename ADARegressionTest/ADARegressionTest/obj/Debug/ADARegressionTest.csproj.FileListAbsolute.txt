@@ -1,0 +1,15 @@
+D:\Repository\ADARegressionTool\ADARegressionTest\ADARegressionTest\bin\Debug\ADARegressionTest.exe
+D:\Repository\ADARegressionTool\ADARegressionTest\ADARegressionTest\bin\Debug\ADARegressionTest.pdb
+D:\Repository\ADARegressionTool\ADARegressionTest\ADARegressionTest\bin\Debug\CmdLine.dll
+D:\Repository\ADARegressionTool\ADARegressionTest\ADARegressionTest\bin\Debug\log4net.dll
+D:\Repository\ADARegressionTool\ADARegressionTest\ADARegressionTest\bin\Debug\log4net.xml
+D:\Repository\ADARegressionTool\ADARegressionTest\ADARegressionTest\obj\Debug\ADARegressionTest.csprojResolveAssemblyReference.cache
+D:\Repository\ADARegressionTool\ADARegressionTest\ADARegressionTest\obj\Debug\ADARegressionTest.exe
+D:\Repository\ADARegressionTool\ADARegressionTest\ADARegressionTest\obj\Debug\ADARegressionTest.pdb
+D:\Repository\ADARegressionTool\ADARegressionTest\ADARegressionTest\bin\Debug\ADARegressionTest.exe.config
+D:\Repository\ADARegressionTool\ADARegressionTest\ADARegressionTest\bin\Debug\x64\SQLite.Interop.dll
+D:\Repository\ADARegressionTool\ADARegressionTest\ADARegressionTest\bin\Debug\x86\SQLite.Interop.dll
+D:\Repository\ADARegressionTool\ADARegressionTest\ADARegressionTest\bin\Debug\DBComparer.dll
+D:\Repository\ADARegressionTool\ADARegressionTest\ADARegressionTest\bin\Debug\System.Data.SQLite.dll
+D:\Repository\ADARegressionTool\ADARegressionTest\ADARegressionTest\bin\Debug\DBComparer.pdb
+D:\Repository\ADARegressionTool\ADARegressionTest\ADARegressionTest\bin\Debug\System.Data.SQLite.xml
